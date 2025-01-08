@@ -1,1 +1,36 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Próximas formações e eventos</title>
+    <link>https://www.itecons.uc.pt/</link>
+    <description>Feed RSS para Próximas formações e eventos</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 08 Jan 2025 10:30:21 +0000</lastBuildDate>
+    <item>
+      <title>3º Simpósio de Acústica e Vibrações</title>
+      <link>https://www.itecons.uc.pt/</link>
+      <enclosure url="https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDYvMDQvNHhqc2UzaGdtcV9BY3VzdGljYTIwMjVfU2l0ZV9JdGVjb25zX0V2ZW50b3MuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=0ebda8135a10d2b1" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jan 2025 10:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Congresso Nacional em Prefabricação de Betão – ANIPB 2025</title>
+      <link>https://www.itecons.uc.pt/</link>
+      <enclosure url="https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDcvMzEvMnZ2N3Rxd3hjOV9jb25ncmVzc29fcHJlX2ZhYnJpY2FjYW9fc2l0ZV9pdGVjb25zLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=a0b62803e89a3cda" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jan 2025 10:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEES 2025 - 3rd International Conference on Construction, Energy, Environment and Sustainability</title>
+      <link>https://www.itecons.uc.pt/</link>
+      <enclosure url="https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDUvMTMvM3Vjd2g2cjB0M19DRUVTMjAyNV9TaXRlX0l0ZWNvbnNfRXZlbnRvc19ub3ZhX2RhdGEuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=b2331d50e1b0c395" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jan 2025 10:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dimensionamento de Sistemas de Climatização</title>
+      <link>https://www.itecons.uc.pt/</link>
+      <description>2ª EDIÇÃO | PRESENCIAL</description>
+      <enclosure url="https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDEvMDMvNjJyZWtsenk2c19jdXJzb3Nfc2lzdGVtYXNfY2xpbS5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=42505c776d78cc9c" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jan 2025 10:30:21 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
