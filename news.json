@@ -1,1 +1,42 @@
-
+[
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMTIvMTgvMWUxbm9veDJidl9lbmdfY2l2aWwuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=d793c4027f761e21",
+        "titulo": "ABERTURA DE VAGA | ENG. CIVIL",
+        "descricao": ""
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMTAvMTEvOGZzejFhenZra19hZ3VhLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=497438a9d33afdae",
+        "titulo": "CIRCULamETA",
+        "descricao": "Valorização de lamas de ETA em soluções sustent..."
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDYvMTQvMXJrMG1zbmhmNl9mb3RvLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=bcc703ea53c2c8c5",
+        "titulo": "Smart Roofs System",
+        "descricao": "Prémio de Inovação da Techtextil"
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDUvMjkvNnMxM3g1Zml4aV9pbWFnZW1fZGVzdGFxdWUuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=a806a0b74798efb6",
+        "titulo": "Rótulos e Declarações Ambientais para os consumidores",
+        "descricao": "Webinar"
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjMvMTIvMTQvNXQ5OGhrb3cwNF9JTUdfMzg3My5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=69318bd19d66a433",
+        "titulo": "Ação de formação",
+        "descricao": "Eficiência Energética de Edifícios"
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjMvMDUvMDkvcno2MWRxOGYyX3NpdGUyMDIzX25vdGljaWFzX0NFUklTLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=efe35eac0aba06ed",
+        "titulo": "CERIS Coimbra",
+        "descricao": "Itecons — Instituição de gestão e acolhimento"
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjMvMDIvMjMvMTl0cDN6aGUweV9FeHBvc2ljX2EwMjAyM19TaXRlX0l0ZWNvbnMucG5nIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=f37a585d82eebbe2",
+        "titulo": "Exposição",
+        "descricao": "Materiais Inovadores Sustentáveis"
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjIvMDgvMTEvMWZmNjE4OXd6aF9DVElfc2l0ZV9ub3RpY2lhcy5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=7cb9034363197dec",
+        "titulo": "Reconhecimento CTI",
+        "descricao": "Centro de Tecnologia e Inovação"
+    }
+]
