@@ -1,11 +1,5 @@
 [
     {
-        "date": "14 FEB",
-        "title": "Robot Structural Analysis Professional",
-        "description": "21ª Edição | ONLINE (CURSO SÍNCRONO)",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvOWYyMm9oamdnbV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAxLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=e1735fc8b3779889"
-    },
-    {
         "date": "28 FEB",
         "title": "Autodesk Civil 3D",
         "description": "10ª Edição | Civil 3D Nível I | Presencial",
@@ -58,6 +52,12 @@
         "title": "Road Pavement Design",
         "description": "9ª Edição | Módulo 1 | Presencial",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNjZrZWtvZjM5dV9zaXRlMjAxOV9mb3JtYWNhb19DMTAxLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=09c9adc58402b9e2"
+    },
+    {
+        "date": "14 JUN",
+        "title": "Conceção e Dimensionamento de Pavimentos Rodoviários",
+        "description": "9ª Edição | Módulo 2 | Presencial",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvM3E3MTZmMHY5Z190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA5LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=d394f291d6031e45"
     },
     {
         "date": "11 JUN",
