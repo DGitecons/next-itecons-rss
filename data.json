@@ -1,13 +1,7 @@
 [
     {
-        "date": "28 FEB",
-        "title": "Autodesk Civil 3D",
-        "description": "10ª Edição | Civil 3D Nível I | Presencial",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvOHh3YTBoNHlqbl90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAzLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=7d53a915df423df7"
-    },
-    {
         "date": "7 MAR",
-        "title": "BIM - Revit Structure software",
+        "title": "BIM - Revit Structure",
         "description": "12ª Edição | ONLINE (CURSO SÍNCRONO)",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNW0xdjV6aTBhZ190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAyLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=366e748dba2f7741"
     },
@@ -28,5 +22,11 @@
         "title": "Autodesk AutoCAD - Nível II",
         "description": "2ª EDIÇÃO |  ONLINE (CURSO SÍNCRONO)",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYva2xvZWV3bzZqX3RlbXBsYXRlX2RpZ2l0YWxfYnVpbHRfMDUuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=6de3b4f48e6c7f9f"
+    },
+    {
+        "date": "28 MAR",
+        "title": "Autodesk Civil 3D",
+        "description": "9ª Edição | Civil 3D Nível II | Presencial",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMTdhcTNhdnRkZV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA3LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cc331c99a2127bea"
     }
 ]
