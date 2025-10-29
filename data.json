@@ -1,11 +1,5 @@
 [
     {
-        "date": "28 OUT",
-        "title": "Autodesk Civil 3D",
-        "description": "9ª Edição | Civil 3D Nível II | Presencial",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMTdhcTNhdnRkZV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA3LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cc331c99a2127bea"
-    },
-    {
         "date": "1 NOV",
         "title": "BIM - Revit Structure",
         "description": "14ª Edição | ONLINE (CURSO SÍNCRONO)",
@@ -28,5 +22,11 @@
         "title": "BIM – REVIT ARCHITECTURE (FUNDAMENTAL)",
         "description": "3ª EDIÇÃO | ONLINE (CURSO SÍNCRONO)",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDUvMTUvM28ybzNmbW1kcV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzEzLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=d10cae14f096451c"
+    },
+    {
+        "date": "7 NOV",
+        "title": "3º Simpósio de Acústica e Vibrações",
+        "description": "",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDYvMDQvNHhqc2UzaGdtcV9BY3VzdGljYTIwMjVfU2l0ZV9JdGVjb25zX0V2ZW50b3MuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=0ebda8135a10d2b1"
     }
 ]
