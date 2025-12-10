@@ -1,13 +1,13 @@
 [
     {
-        "date": "12 DEC",
+        "date": "12 DEZ",
         "title": "BIM – REVIT ARCHITECTURE (FUNDAMENTAL)",
         "description": "3ª EDIÇÃO | ONLINE (CURSO SÍNCRONO) | Preço para PME: 50€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDUvMTUvM28ybzNmbW1kcV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzEzLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=d10cae14f096451c"
     },
     {
         "date": "9 JAN",
-        "title": "BIM - Revit Structure software",
+        "title": "BIM - Revit Structure",
         "description": "14ª Edição | ONLINE (CURSO SÍNCRONO) | Preço para PME: 50€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNW0xdjV6aTBhZ190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAyLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=366e748dba2f7741"
     },
@@ -16,11 +16,5 @@
         "title": "QGIS – Formação de Iniciação",
         "description": "2ª Edição | Presencial | Preço para PME: 9,40€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMzZlenV5ZGkwdl90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA2LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cbfaada8336b096c"
-    },
-    {
-        "date": "10 DEC",
-        "title": "Novo Regulamento de Produtos de Construção",
-        "description": "",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMTEvMTgvNHgwbmprZnh2cV9hY2NlcHRfaW1hZ2VtX2V2ZW50b19zaXRlMi5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=12c8f4c81a5ac093"
     }
 ]
