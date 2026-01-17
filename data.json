@@ -1,11 +1,5 @@
 [
     {
-        "date": "16 JAN",
-        "title": "BIM - Revit Structure",
-        "description": "14ª Edição | ONLINE (CURSO SÍNCRONO) | Preço para PME: 50€*",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNW0xdjV6aTBhZ190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAyLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=366e748dba2f7741"
-    },
-    {
         "date": "5 FEV",
         "title": "Autodesk Civil 3D - Nível I",
         "description": "12ª Edição | Presencial | Preço para PME: 31,25€*",
@@ -28,5 +22,11 @@
         "title": "Robot Structural Analysis Professional",
         "description": "24ª Edição | ONLINE (CURSO SÍNCRONO) |Preço para PME: 50€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvOWYyMm9oamdnbV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAxLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=e1735fc8b3779889"
+    },
+    {
+        "date": "26 FEV",
+        "title": "Autodesk Civil 3D - Nível II",
+        "description": "10ª Edição | Presencial | Preço para PME: 28,75€*",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMTdhcTNhdnRkZV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA3LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cc331c99a2127bea"
     }
 ]
