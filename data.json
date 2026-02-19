@@ -1,11 +1,5 @@
 [
     {
-        "date": "18 FEV",
-        "title": "Introdução à programação de dispositivos IoT",
-        "description": "1ª EDIÇÃO | PRESENCIAL | Gratuita",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDcvMDgvM2o5cTVwb29jY19pb3RfZm9ybWFjYW9fMi5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=27758d55f3ca619b"
-    },
-    {
         "date": "20 FEV",
         "title": "Robot Structural Analysis Professional",
         "description": "24ª Edição | ONLINE (CURSO SÍNCRONO) |Preço para PME: 50€*",
@@ -28,5 +22,11 @@
         "title": "Autodesk AutoCAD - Nível I",
         "description": "11ª EDIÇÃO | ONLINE (CURSO SÍNCRONO) | Preço para PME: 37,50€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMTBrd2xlY25lbl90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA0LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=846cd6e62123ba91"
+    },
+    {
+        "date": "27 MAR",
+        "title": "BIM – Interoperabilidade Revit-Robot",
+        "description": "6ª EDIÇÃO | ONLINE (CURSO SÍNCRONO) | Preço para PME: 23,75€*",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDMvMTkvN3d2a3Jva3NldF8zODMzMGZlNF83NDcyXzQ2M2VfYmMyZl9lNjM4YWYxMzk3YTkuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=1d3f86f16763b928"
     }
 ]
