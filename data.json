@@ -1,11 +1,5 @@
 [
     {
-        "date": "26 FEV",
-        "title": "Autodesk Civil 3D - Nível II",
-        "description": "10ª Edição | Presencial | Preço para PME: 28,75€*",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMTdhcTNhdnRkZV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA3LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cc331c99a2127bea"
-    },
-    {
         "date": "6 MAR",
         "title": "QGIS – Formação de Iniciação",
         "description": "2ª Edição | Presencial | Preço para PME: 9,40€*",
@@ -28,5 +22,11 @@
         "title": "Dimensionamento de Sistemas de Climatização",
         "description": "3ª EDIÇÃO | PRESENCIAL | Preço para PME: 34,40€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDEvMDMvNjJyZWtsenk2c19jdXJzb3Nfc2lzdGVtYXNfY2xpbS5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=42505c776d78cc9c"
+    },
+    {
+        "date": "10 ABR",
+        "title": "Conceção e Dimensionamento de Pavimentos Rodoviários",
+        "description": "10ª Edição | Módulo 1 | Presencial",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNjZrZWtvZjM5dV9zaXRlMjAxOV9mb3JtYWNhb19DMTAxLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=09c9adc58402b9e2"
     }
 ]
