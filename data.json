@@ -1,11 +1,5 @@
 [
     {
-        "date": "16 MAR",
-        "title": "Autodesk AutoCAD - Nível I",
-        "description": "11ª EDIÇÃO | ONLINE (CURSO SÍNCRONO) | Preço para PME: 37,50€*",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMTBrd2xlY25lbl90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA0LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=846cd6e62123ba91"
-    },
-    {
         "date": "20 MAR",
         "title": "QGIS – Formação de Iniciação",
         "description": "2ª Edição | Presencial | Preço para PME: 9,40€*",
@@ -28,5 +22,11 @@
         "title": "Road Pavement Design",
         "description": "10ª Edição | Módulo 1 | Presencial",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNjZrZWtvZjM5dV9zaXRlMjAxOV9mb3JtYWNhb19DMTAxLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=09c9adc58402b9e2"
+    },
+    {
+        "date": "10 APR",
+        "title": "BIM - Revit Structure software",
+        "description": "15ª Edição | ONLINE (CURSO SÍNCRONO) | Preço para PME: 50€*",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNW0xdjV6aTBhZ190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAyLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=366e748dba2f7741"
     }
 ]
