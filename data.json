@@ -1,11 +1,5 @@
 [
     {
-        "date": "10 APR",
-        "title": "Road Pavement Design",
-        "description": "10ª Edição | Módulo 1 | Presencial",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvNjZrZWtvZjM5dV9zaXRlMjAxOV9mb3JtYWNhb19DMTAxLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=09c9adc58402b9e2"
-    },
-    {
         "date": "11 APR",
         "title": "Conceção e Dimensionamento de Pavimentos Rodoviários",
         "description": "10ª Edição | Módulo 2 | Presencial | Preço para PME: 29,38€*",
@@ -28,5 +22,11 @@
         "title": "Autodesk Civil 3D - Nível I",
         "description": "12ª Edição | online | Preço para PME: 31,25€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvOHh3YTBoNHlqbl90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzAzLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=7d53a915df423df7"
+    },
+    {
+        "date": "5 MAY",
+        "title": "QGIS – Formação de Iniciação",
+        "description": "2ª Edição | Presencial | Preço para PME: 9,40€*",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMzZlenV5ZGkwdl90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA2LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cbfaada8336b096c"
     }
 ]
