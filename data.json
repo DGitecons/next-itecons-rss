@@ -1,11 +1,5 @@
 [
     {
-        "date": "11 APR",
-        "title": "Conceção e Dimensionamento de Pavimentos Rodoviários",
-        "description": "10ª Edição | Módulo 2 | Presencial | Preço para PME: 29,38€*",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvM3E3MTZmMHY5Z190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA5LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=d394f291d6031e45"
-    },
-    {
         "date": "17 APR",
         "title": "BIM - Revit Structure software",
         "description": "15ª Edição | ONLINE (CURSO SÍNCRONO) | Preço para PME: 50€*",
@@ -28,5 +22,11 @@
         "title": "QGIS – Formação de Iniciação",
         "description": "2ª Edição | Presencial | Preço para PME: 9,40€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMzZlenV5ZGkwdl90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA2LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cbfaada8336b096c"
+    },
+    {
+        "date": "8 MAY",
+        "title": "REABILITAÇÃO DE PAVIMENTOS RODOVIÁRIOS: Tecnologias e Avaliação Estrutural",
+        "description": "4ª Edição | Presencial | Preço para PME: 42,50€*",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMzZpbnFjYngxa190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzEwLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=6b8d9063edd2ff58"
     }
 ]
