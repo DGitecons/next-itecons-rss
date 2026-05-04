@@ -7,12 +7,6 @@
     },
     {
         "date": "8 MAI",
-        "title": "REABILITAÇÃO DE PAVIMENTOS RODOVIÁRIOS: Tecnologias e Avaliação Estrutural",
-        "description": "4ª Edição | Presencial | Preço para PME: 42,50€*",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMzZpbnFjYngxa190ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzEwLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=6b8d9063edd2ff58"
-    },
-    {
-        "date": "8 MAI",
         "title": "BIM – REVIT ARCHITECTURE (FUNDAMENTAL)",
         "description": "4ª EDIÇÃO | ONLINE (CURSO SÍNCRONO) | Preço para PME: 50€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDUvMTUvM28ybzNmbW1kcV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzEzLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=d10cae14f096451c"
@@ -28,5 +22,11 @@
         "title": "Autodesk Civil 3D - Nível II",
         "description": "10ª Edição | online | Preço para PME: 28,75€*",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYvMTdhcTNhdnRkZV90ZW1wbGF0ZV9kaWdpdGFsX2J1aWx0XzA3LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=cc331c99a2127bea"
+    },
+    {
+        "date": "20 MAI",
+        "title": "Autodesk AutoCAD - Nível II",
+        "description": "2ª Edição | ONLINE (CURSO SÍNCRONO) | Preço para PME: 31,25€*",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMDYva2xvZWV3bzZqX3RlbXBsYXRlX2RpZ2l0YWxfYnVpbHRfMDUuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=6de3b4f48e6c7f9f"
     }
 ]
