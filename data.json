@@ -1,15 +1,9 @@
 [
     {
-        "date": "10 DEZ",
-        "title": "Simpósio E2H - Janelas e Fachadas Eficientes",
+        "date": "10 DEC",
+        "title": "Symposium E2H - Efficient Windows and façades",
         "description": "",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDYvMDgvNWs1cmpsc2tiNl9pbWFnZW1fZXZlbnRvc19zaXRlX2l0ZWNvbnNfZTJoLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=f8f7e5558b39e7ba"
-    },
-    {
-        "date": "25 JUN",
-        "title": "Introdução aos Sistemas de Climatização",
-        "description": "5ª EDIÇÃO | ONLINE (CURSO SÍNCRONO)",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMTkvMDkvMDYvcHJ1bjhqcmpjX3NpdGUyMDE5X2Zvcm1hY2FvX0MxMzAuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=8c0c7ac9f54050ae"
     },
     {
         "date": "1 JUL",
@@ -19,14 +13,20 @@
     },
     {
         "date": "1 JUL",
-        "title": "BIM - Revit Structure",
+        "title": "BIM - Revit Structure software",
         "description": "15ª Edição | ONLINE (CURSO SÍNCRONO)",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDYvMDkvejd6bzAxbXV3X0M4Nl9Gb3JtYWNhby5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=76d0b65aff7a19bf"
     },
     {
-        "date": "3 AGO",
+        "date": "3 AUG",
         "title": "Autodesk Civil 3D - Nível II",
         "description": "10ª Edição | online",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDYvMjIvNXg2dmlhY2l4Ml9DMTE0X1NpdGUuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=23901f5b67f53c1a"
+    },
+    {
+        "date": "18 SEP",
+        "title": "REABILITAÇÃO DE PAVIMENTOS RODOVIÁRIOS: Tecnologias e Avaliação Estrutural",
+        "description": "4ª Edição | Presencial",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDUvMDQvM25lYWttN29uNV9DMTI1LmpwZWciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=327dbe25dfce1201"
     }
 ]
