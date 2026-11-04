@@ -1,11 +1,5 @@
 [
     {
-        "date": "11 NOV",
-        "title": "Autodesk Civil 3D - Nível I",
-        "description": "13ª Edição | online",
-        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDkvMTYvNmc3am00ZWltd19DMTE0X05JLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=e2ff313820831d31"
-    },
-    {
         "date": "13 NOV",
         "title": "REABILITAÇÃO DE PAVIMENTOS RODOVIÁRIOS: Tecnologias e Avaliação Estrutural",
         "description": "4ª Edição | Presencial",
@@ -24,9 +18,15 @@
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDkvMTYvNWpidW9tb2J6OF9DMzUuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=3bd6178db920c334"
     },
     {
-        "date": "10 DEC",
+        "date": "10 DEZ",
         "title": "Autodesk Civil 3D - Nível II",
         "description": "10ª Edição | online",
         "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDkvMTYvM2h5ZnJxODhnOV9DMTE0X05JSS5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=4e24e7818b7bb109"
+    },
+    {
+        "date": "11 DEZ",
+        "title": "Robot Structural Analysis Professional",
+        "description": "25ª Edição | ONLINE (CURSO SÍNCRONO)",
+        "image_url": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDcvMzEvMTAxdXh1Zm5scl9zaXRlMjAxOV9mb3JtYWNhb19DODVfMS5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=ecbe05d2090589e7"
     }
 ]
